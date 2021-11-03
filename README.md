@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @venkateshpullaganti
-- 👀 I’m interested in Software Development and AI
+- 👀 I’m interested in Computers(Software and HardWare) and AI
 - 🌱 I’m currently learning FullStack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on FullStack and AI.
 - 📫 How to reach me venkatesh6123.pv@gmail.com or [LinkedIn](https://www.linkedin.com/in/venkatesh-pullaganti/)
 - 👨🏽‍💻 [My ReactJs projects](https://my-reactjs-projects.web.app/#/) deplyed in Firebase.
 <!---
